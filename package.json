@@ -22,5 +22,9 @@
 		"prettier": "^2.4.1",
 		"prettier-plugin-svelte": "^2.4.0",
 		"svelte": "^3.42.6"
+	},
+	"devDependencies": {
+		"svelte-preprocess": "^4.9.8",
+		"vite": "^2.6.10"
 	}
 }
